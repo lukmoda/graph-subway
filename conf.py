@@ -1,0 +1,5 @@
+DB_SERVER = "<your-server-name>"
+DB_USER = "<your-username>"
+DB_PWD = "<your-password>"
+START_NODE = "<your-start-node>" 
+END_NODE = "<your-end-node>"

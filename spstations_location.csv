@@ -1,0 +1,166 @@
+station_id,station_name,station_latitude,station_longitude
+1,Tucuruvi,-23.480316 ,-46.603715
+2,Parada Inglesa,-23.482483 ,-46.613299
+3,Jardim Sao Paulo - Ayrton Senna,-23.491991 ,-46.616599
+4,Santana,-23.502238 ,-46.624708
+5,Carandiru,-23.508992 ,-46.624969
+6,Portuguesa-Tiete,-23.515772  ,-46.625226
+7,Armênia,-23.525248  ,-46.629279
+8,Tiradentes,-23.530610  ,-46.632472
+9,Luz,-23.536248  ,-46.634314
+10,Sao Bento,-23.544154 ,-46.634188
+11,Se,-23.549883 ,-46.633342 
+12,Japao-Liberdade,-23.555061  ,-46.635642
+13,Sao Joaquim,-23.561617  ,-46.638672
+14,Vergueiro,-23.568630 ,-46.639922
+15,Paraiso,-23.576324 ,-46.640839
+16,Ana Rosa,-23.581295 ,-46.638620
+17,Vila Mariana,-23.589268 ,-46.634439
+18,Santa Cruz,-23.598683 ,-46.636780
+19,Praca da Arvore,-23.610284 ,-46.637902
+20,Saúde,-23.618401,-46.639376
+21,Sao Judas,-23.625381 ,-46.640864
+22,Conceicao,-23.634902  ,-46.641365
+23,Jabaquara,-23.645832 ,-46.640815
+24,Vila Madalena,-23.546391 ,-46.690798
+25,Sumare,-23.550467 ,-46.677870
+26,Clinicas,-23.554084 ,-46.671030
+27,Paulista/Consolacao,-23.557654 ,-46.660674
+28,Trianon-Masp,-23.563432 ,-46.653858
+29,Brigadeiro,-23.567374 ,-46.648995
+30,Chacara Klabin,-23.592504 ,-46.630408
+31,Santos-Imigrantes,-23.595719 ,-46.620738
+32,Alto do Ipiranga,-23.601832 ,-46.612505
+33,Sacoma,-23.602808 ,-46.602784
+34,Tamanduatei,-23.592541 ,-46.589450 
+35,Vila Prudente,-23.584183 ,-46.581869
+36,Palmeiras-Barra Funda,-23.525158 ,-46.667368
+37,Marechal Deodoro,-23.533646 ,-46.655658
+38,Santa Cecilia,-23.538935  ,-46.649160
+39,Republica,-23.543819 ,-46.642347
+40,Anhagabau,-23.547607 ,-46.638669
+41,Pedro II,-23.549491 ,-46.625963
+42,Bras,-23.547545 ,-46.615929
+43,Bresser-Mooca,-23.545890 ,-46.607159
+44,Belem,-23.542547 ,-46.589689
+45,Tatuape,-23.540006 ,-46.576615
+46,Carrao,-23.537590 ,-46.564165
+47,Penha,-23.533281 ,-46.542549
+48,Vila Matilde,-23.531583 ,-46.530807
+49,Guilhermina-Esperanca,-23.529015 ,-46.516476
+50,Patriarca-Vila Re,-23.530781 ,-46.501455
+51,Artur Alvim,-23.540206 ,-46.484352
+52,Corinthians-Itaquera,-23.541970 ,-46.471077
+53,Sao Paulo-Morumbi,-23.586118 ,-46.723454
+54,Butanta,-23.571512 ,-46.708110
+55,Pinheiros,-23.566206 ,-46.703065
+56,Faria Lima,-23.567139 ,-46.693247
+57,Fradique Coutinho,-23.565941 ,-46.684238
+58,Oscar Freire,-23.560548 ,-46.672025
+59,Higienopolis-Mackenzie,-23.548720 ,-46.652297
+60,Capao Redondo,-23.659109 ,-46.768051
+61,Campo Limpo,-23.648985 ,-46.758835
+62,Vila das Belezas,-23.639982 ,-46.745707
+63,Giovanni Gronchi,-23.643721 ,-46.734049
+64,Santo Amaro,-23.656083 ,-46.718950
+65,Largo Treze,-23.653826 ,-46.708662
+66,Adolfo Pinheiro,-23.649845 ,-46.704214
+67,Alto da Boa Vista,-23.641291 ,-46.698994
+68,Borba Gato,-23.633210 ,-46.692800
+69,Brooklin,-23.626051 ,-46.687821
+70,Campo Belo,-23.618150 ,-46.681976
+71,Eucaliptos,-23.609444 ,-46.668370
+72,Moema,-23.603477 ,-46.662028
+73,AACD-Servidor,-23.597010 ,-46.652174
+74,Hospital Sao Paulo,-23.598076 ,-46.645535
+75,Jundiai,-23.194896 ,-46.872381
+76,Varzea Paulista,-23.208820 ,-46.829268
+77,Campo Limpo Paulista,-23.205709 ,-46.785716
+78,Botujuru,-23.235855 ,-46.767546
+79,Francisco Morato,-23.282366 ,-46.742271
+80,Baltazar Fidelis,-23.309853 ,-46.723749
+81,Franco da Rocha,-23.329346 ,-46.726312
+82,Caieiras,-23.365980 ,-46.751559
+83,Perus,-23.404929 ,-46.753540
+84,Vila Aurora,-23.437288 ,-46.747232
+85,Jaragua,-23.455223 ,-46.738422
+86,Vila Clarice,-23.469720 ,-46.744370
+87,Pirituba,-23.488579 ,-46.726328
+88,Piqueri,-23.503792 ,-46.714821
+89,Lapa,-23.520052 ,-46.698955
+90,Agua Branca,-23.521103 ,-46.688518
+91,Amador Bueno,-23.530200 ,-46.983803
+92,Santa Rita,-23.545692 ,-46.946435
+93,Itapevi,-23.545524 ,-46.935244
+94,Eng Cardoso,-23.534986 ,-46.928632
+95,Sagrado Coracao,-23.528924 ,-46.915964
+96,Jandira,-23.527570 ,-46.902876
+97,Jardim Silveira,-23.523782 ,-46.893617
+98,Jardim Belval,-23.514185 ,-46.889386
+99,Barueri,-23.512638 ,-46.875552
+100,Antonio Joao,-23.516959 ,-46.858172
+101,Santa Terezinha,-23.516311 ,-46.847989
+102,Carapicuiba,-23.518485 ,-46.835650
+103,General Miguel Costa,-23.523202 ,-46.815221
+104,Quitauna,-23.522610 ,-46.807252
+105,Comandante Sampaio,-23.525482 ,-46.795640
+106,Osasco,-23.527554  ,-46.775981 
+107,Presidente Altino,-23.531035 ,-46.761855
+108,Imperatriz Leopoldina,-23.523518 ,-46.737605
+109,Domingos de Moraes,-23.518848 ,-46.721594
+110,Julio Prestes,-23.533744 ,-46.639964
+111,Ceasa,-23.537089 ,-46.742668
+112,Villa-Lobos Jaguare,-23.545835 ,-46.732752  
+113,Cidade Universitaria,-23.556805 ,-46.711552
+114,Hebraica-Reboucas,-23.572896 ,-46.698215
+115,Cidade Jardim,-23.585109 ,-46.691134
+116,Vila Olimpia,-23.593367 ,-46.691977
+117,Berrini,-23.604500 ,-46.696813
+118,Morumbi,-23.621755 ,-46.701115
+119,Granja Julieta,-23.627313 ,-46.711935
+120,Socorro,-23.663186 ,-46.710955
+121,Jurubatuba,-23.677059 ,-46.702222
+122,Autodromo,-23.705812,-46.688331
+123,Primavera-Interlagos,-23.722441 ,-46.691904
+124,Grajau,-23.736266 ,-46.696955
+125,Juventus-Mooca,-23.558014 ,-46.608498
+126,Ipiranga,-23.582243 ,-46.596625
+127,Sao Caetano do Sul,-23.610060 ,-46.570183
+128,Utinga,-23.625923 ,-46.544136
+129,Prefeito Celso Daniel–Santo Andre,-23.652012 ,-46.528295
+130,Capuava,-23.657859 ,-46.490086
+131,Maua,-23.668142 ,-46.461667  
+132,Guapituba,-23.692109 ,-46.448642
+133,Ribeirao Pires–Antonio Bespalec,-23.713455 ,-46.414599
+134,Rio Grande da Serra,-23.743029 ,-46.391783
+135,Dom Bosco,-23.541560 ,-46.448102
+136,Jose Bonifacio,-23.538799 ,-46.431710
+137,Guaianases,-23.542096 ,-46.415526
+138,Antonio Gianetti Neto,-23.554096 ,-46.383625
+139,Ferraz de Vasconcelos,-23.540487 ,-46.368203
+140,Poa,-23.525166 ,-46.343562
+141,Calmon Viana,-23.525077 ,-46.333245
+142,Suzano,-23.534096 ,-46.307909
+143,Jundiapeba,-23.542663 ,-46.258073
+144,Braz Cubas,-23.536261 ,-46.225199
+145,Mogi das Cruzes,-23.521133 ,-46.196758
+146,Estudantes,-23.515268 ,-46.184033
+147,Engenheiro Goulart,-23.497740 ,-46.519699
+148,USP Leste,-23.485401 ,-46.501248
+149,Comendador Ermelino,-23.485060 ,-46.482347
+150,Sao Miguel Paulista,-23.490499 ,-46.443670
+151,Jardim Helena–Vila Mara,-23.492643 ,-46.421088
+152,Itaim Paulista,-23.493883 ,-46.402063
+153,Jardim Romano,-23.484855 ,-46.385574  
+154,Engenheiro Manoel Feio,-23.479199 ,-46.367272
+155,Itaquaquecetuba,-23.485566 ,-46.348494
+156,Aracare,-23.499751 ,-46.339066
+157,Oratorio,-23.581873 ,-46.561689
+158,Sao Lucas,-23.588920 ,-46.544616
+159,Camilo Haddad,-23.595505 ,-46.537545
+160,Vila Tolstoi,-23.600840 ,-46.527188
+161,Vila Uniao,-23.602895 ,-46.515528
+162,Jardim Planalto,-23.606382  ,-46.507711
+163,Sapopemba,-23.614537 ,-46.500934
+164,Fazenda da Juta,-23.611855 ,-46.487722  
+165,Sao Mateus,-23.612163 ,-46.477396
